@@ -74,7 +74,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -pathpass2
 
 env:
   TZ: America/New_York
