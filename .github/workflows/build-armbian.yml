@@ -233,7 +233,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - pathpass2
 
 env:
   TZ: America/New_York
