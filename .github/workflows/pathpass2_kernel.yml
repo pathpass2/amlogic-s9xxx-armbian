@@ -36,6 +36,7 @@ on:
           - 6.6.y_6.12.y
           - 5.4.y_5.10.y_5.15.y
           - 6.1.y_6.6.y_6.12.y
+          - linux-main
           - all
       kernel_auto:
         description: "Auto use the latest kernel"
