@@ -86,6 +86,7 @@ on:
         default: ""
         type: choice
         options:
+          -  ""
           - -ophub
           - -pathpass2
           - -yourname
