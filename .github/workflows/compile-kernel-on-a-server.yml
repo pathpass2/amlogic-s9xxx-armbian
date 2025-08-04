@@ -17,7 +17,6 @@ on:
         type: choice
         options:
           - unifreq
-          - pathpass2
           - codesnas
       kernel_version:
         description: "Select kernel version"
@@ -36,7 +35,6 @@ on:
           - 6.6.y_6.12.y
           - 5.4.y_5.10.y_5.15.y
           - 6.1.y_6.6.y_6.12.y
-          - 6.16.0
           - all
       kernel_auto:
         description: "Auto use the latest kernel"
